@@ -4,7 +4,7 @@ html{
     font-size: larger;
     font-style: italic;
 }
-#BBUM{
+#BBUM, bgm{
     position: relative;
     z-index: 100;
 }
