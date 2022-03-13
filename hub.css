@@ -1,0 +1,93 @@
+html{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    position: relative;
+    
+}
+#bgm{
+    position: relative;
+    left: 730px;
+    top: 230px;
+}
+
+#Love{
+    position: relative;
+    left: 730px;
+    top: 250px;
+}
+#past{
+    position: relative;
+    top: 100px;
+}
+#p2{
+    position: relative;
+    left: 230px;
+    bottom: 380px;
+}
+#p3{
+    position: relative;
+    left: 460px;
+    bottom: 770px;
+}
+
+
+#future{
+    position: relative;
+    bottom: 500px;
+}
+
+#f2{
+    position: relative;
+    left: 230px;
+    bottom: 290px;
+}
+#f3{
+    position: relative;
+    left: 460px;
+    bottom: 530px;
+}
+#f4{
+    position: relative;
+    left: 690px;
+    bottom: 850px;
+}
+#math{
+    position: relative;
+    bottom: 1220px;
+}
+#m2{
+    position: relative;
+    left: 230px;
+    bottom: 290px;
+}
+#m3{
+    position: relative;
+    left: 460px;
+    bottom: 530px;
+}
+#m2{
+    position: relative;
+    bottom: 380px;
+}
+#m3{
+    position: relative;
+    bottom: 763px;
+}
+#gallery{
+    position: relative;
+    bottom: 500px;
+}
+#v{
+    position: relative;
+    bottom: 1700px;
+}
