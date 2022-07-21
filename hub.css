@@ -22,6 +22,7 @@ h2{
     position: relative;
     left: 730px;
     top: 230px;
+    z-index: 100;
 }
 
 #Love{
